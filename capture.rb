@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'opencv'
-include OpenCV
 
 QUALITY = 30
 FPS=10
